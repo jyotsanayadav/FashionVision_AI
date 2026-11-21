@@ -1,0 +1,4 @@
+initialization,val_loss,val_accuracy,test_loss,test_accuracy,best_epoch
+Xavier,0.379967,0.871,0.436662,0.8477,14
+He,0.382973,0.869,0.439773,0.844,13
+Random,0.374427,0.868,0.429744,0.8483,15

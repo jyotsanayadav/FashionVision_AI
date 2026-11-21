@@ -1,0 +1,15 @@
+{
+  "experiment": "optim_LargeBatch",
+  "hyperparameters": {
+    "optimizer": "sgd",
+    "batch_size": "4096",
+    "learning_rate": "0.01",
+    "momentum": "0",
+    "epochs": "15",
+    "best_epoch": "15",
+    "architecture": "784-128-10 relu"
+  },
+  "num_learned_parameters": 101770,
+  "final_loss": 0.997542,
+  "final_metric": 0.6941
+}

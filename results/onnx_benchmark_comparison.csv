@@ -1,0 +1,11 @@
+Metric,Python,C++
+Images Tested,1000,1000
+Single Image Total Time (ms),2682.12,6211.80
+Average Latency (ms/image),2.68,6.21
+Single Image Throughput (images/second),372.84,160.98
+Batch Size,32,32
+Batch Inference Time (ms),1530.41,2531.28
+Batch Throughput (images/second),653.42,395.06
+Model,ResNet18 Fashion-MNIST,ResNet18 Fashion-MNIST
+Runtime,ONNX Runtime 1.32.0,ONNX Runtime 1.32.0
+Device,CPU,CPU

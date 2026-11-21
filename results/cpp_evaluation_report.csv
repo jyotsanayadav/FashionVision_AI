@@ -1,0 +1,12 @@
+Type,Class,Total Images,Correct,Incorrect,Accuracy (%)
+Overall,All Classes,100,92,8,92.0000
+Class,T-shirt/top,8,8,0,100.0000
+Class,Trouser,13,13,0,100.0000
+Class,Pullover,14,13,1,92.8571
+Class,Dress,9,8,1,88.8889
+Class,Coat,10,7,3,70.0000
+Class,Sandal,9,9,0,100.0000
+Class,Shirt,8,7,1,87.5000
+Class,Sneaker,11,11,0,100.0000
+Class,Bag,12,12,0,100.0000
+Class,Ankle boot,6,4,2,66.6667

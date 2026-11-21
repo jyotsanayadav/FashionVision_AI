@@ -1,0 +1,15 @@
+{
+  "experiment": "optim_Nesterov",
+  "hyperparameters": {
+    "optimizer": "nesterov",
+    "batch_size": "64",
+    "learning_rate": "0.01",
+    "momentum": "0.9",
+    "epochs": "15",
+    "best_epoch": "15",
+    "architecture": "784-128-10 relu"
+  },
+  "num_learned_parameters": 101770,
+  "final_loss": 0.314972,
+  "final_metric": 0.8882
+}

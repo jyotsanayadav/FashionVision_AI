@@ -1,0 +1,7 @@
+Model,Task,Accuracy,Macro F1,Box AP50,Mask AP50,Notes
+ResNet-18,Fashion-MNIST Image Classification,92.39%,92.33%,N/A,N/A,10-class image classification
+Transformer,Garment Metadata Classification,85.26%,79.78%,N/A,N/A,"Uses geometric metadata, not image pixels"
+Mask R-CNN (Scratch),Garment Detection and Segmentation,N/A,N/A,0.0068,0.0019,"200 training images, 3 epochs"
+Mask R-CNN (Transfer),Garment Detection and Segmentation,N/A,N/A,0.1985,0.1372,"COCO pretrained; 200 training images, 3 epochs"
+VAE,Fashion Image Generation,N/A,N/A,N/A,N/A,Best validation loss: 238.4394 (BCE + KL per image)
+GAN,Fashion Image Generation,N/A,N/A,N/A,N/A,10 training epochs; quantitative generation metric not yet calculated
