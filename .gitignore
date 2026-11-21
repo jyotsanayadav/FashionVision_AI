@@ -1,0 +1,6 @@
+build/
+dataset/
+*.exe
+*.o
+*.obj
+.vscode/
